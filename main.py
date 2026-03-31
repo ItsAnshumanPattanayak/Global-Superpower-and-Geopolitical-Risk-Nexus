@@ -7,7 +7,7 @@ from plotly.subplots import make_subplots
 from data_processor import DataProcessor
 from ml_models import GeopoliticalMLModels
 from agent_ai import GeopoliticalAIAgent
-import warnings
+import warnings 
 warnings.filterwarnings('ignore')
 
 # ============ PAGE CONFIG ============
